@@ -1,0 +1,16 @@
+C:\Users\krist\source\repos\Prak9\Prak9\bin\Debug\net5.0\Prak9.exe
+C:\Users\krist\source\repos\Prak9\Prak9\bin\Debug\net5.0\Prak9.deps.json
+C:\Users\krist\source\repos\Prak9\Prak9\bin\Debug\net5.0\Prak9.runtimeconfig.json
+C:\Users\krist\source\repos\Prak9\Prak9\bin\Debug\net5.0\Prak9.runtimeconfig.dev.json
+C:\Users\krist\source\repos\Prak9\Prak9\bin\Debug\net5.0\Prak9.dll
+C:\Users\krist\source\repos\Prak9\Prak9\bin\Debug\net5.0\ref\Prak9.dll
+C:\Users\krist\source\repos\Prak9\Prak9\bin\Debug\net5.0\Prak9.pdb
+C:\Users\krist\source\repos\Prak9\Prak9\obj\Debug\net5.0\Prak9.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\Prak9\Prak9\obj\Debug\net5.0\Prak9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\Prak9\Prak9\obj\Debug\net5.0\Prak9.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\Prak9\Prak9\obj\Debug\net5.0\Prak9.AssemblyInfo.cs
+C:\Users\krist\source\repos\Prak9\Prak9\obj\Debug\net5.0\Prak9.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Prak9\Prak9\obj\Debug\net5.0\Prak9.dll
+C:\Users\krist\source\repos\Prak9\Prak9\obj\Debug\net5.0\ref\Prak9.dll
+C:\Users\krist\source\repos\Prak9\Prak9\obj\Debug\net5.0\Prak9.pdb
+C:\Users\krist\source\repos\Prak9\Prak9\obj\Debug\net5.0\Prak9.genruntimeconfig.cache
